@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG002_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1974aa90-534d-4531-836e-b0a68319a6d3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57bf41a0-6dd9-496d-b14c-477420f71851</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>929692d3-1c26-4194-be23-a01cc661d1d0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'liana06@gmail.com'</defaultValue>
+      <description></description>
+      <id>57bf41a0-6dd9-496d-b14c-477420f71851</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'nina123'</defaultValue>
+      <description></description>
+      <id>929692d3-1c26-4194-be23-a01cc661d1d0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

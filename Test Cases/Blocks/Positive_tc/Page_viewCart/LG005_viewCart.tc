@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG005_viewCart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4b7ad86-3b9a-4ec0-a745-9ff04d564fe7</testCaseGuid>
+</TestCaseEntity>

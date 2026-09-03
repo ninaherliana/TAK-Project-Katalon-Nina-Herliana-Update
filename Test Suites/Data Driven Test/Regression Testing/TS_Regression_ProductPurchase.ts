@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Regression_ProductPurchase</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>60</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ae41358f-c7eb-4a7e-8774-4245d7663019</testSuiteGuid>
+   <testCaseLink>
+      <guid>46a95981-7f96-49ac-a41a-3b9de6d283a1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenarios/Scenario_ProductPurchase</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>146ea5a1-1f0d-4605-87fd-906736893e27</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data/productPurchaseData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>146ea5a1-1f0d-4605-87fd-906736893e27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nameonCard</value>
+         <variableId>10865ec3-79fd-477e-8fd3-c2ef81cd1e49</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>146ea5a1-1f0d-4605-87fd-906736893e27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cardNumber</value>
+         <variableId>c81cc711-7c4c-480e-b159-9defcec9302e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>146ea5a1-1f0d-4605-87fd-906736893e27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>cvc</value>
+         <variableId>a7c24732-4965-43d0-b9f8-2549cccda98e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>146ea5a1-1f0d-4605-87fd-906736893e27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expiryMonth</value>
+         <variableId>b888acef-673b-4725-b365-1623cc70e1ae</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>146ea5a1-1f0d-4605-87fd-906736893e27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expiryYear</value>
+         <variableId>cc47798a-253b-4f45-9cfa-a0b0fdd2d915</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
